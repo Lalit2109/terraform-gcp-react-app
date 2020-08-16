@@ -1,6 +1,7 @@
 # Terraform CI/CD Pipeline Example
 
 This repo contains an example of deploying a serverless CI/CD pipeline on GCP using Terraform for an React application.
+React app used : https://github.com/Lalit2109/ReactDemoApp
 
 ## Features
 ### Due to limitation on terraform side, some steps needs to be executed manually in GCP console.(See Pre-Requisites)
